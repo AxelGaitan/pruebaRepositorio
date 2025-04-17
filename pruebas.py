@@ -1,2 +1,1 @@
-think="In python"
-myfirst="commit" 
+saludo="hola"
